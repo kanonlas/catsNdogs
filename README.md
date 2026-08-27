@@ -845,7 +845,7 @@ The trained model can then be evaluated, saved, and integrated into a web applic
 
 **Kanonlas Rattanapak**
 
-Computer Engineering — Cybersecurity
+into AI right now 
 
 ---
 
